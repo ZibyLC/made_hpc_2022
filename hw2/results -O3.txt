@@ -1,0 +1,18 @@
+test_square_matrix_x_square_matrix() with size of:  500
+Time taken: 2291769 microseconds
+-----------------------------------------------------------------
+test_square_matrix_x_square_matrix() with size of:  512
+Time taken: 2545174 microseconds
+-----------------------------------------------------------------
+test_square_matrix_x_square_matrix() with size of:  1000
+Time taken: 10261336 microseconds
+-----------------------------------------------------------------
+test_square_matrix_x_square_matrix() with size of:  1024
+Time taken: 10889557 microseconds
+-----------------------------------------------------------------
+test_square_matrix_x_square_matrix() with size of:  2000
+Time taken: 66737476 microseconds
+-----------------------------------------------------------------
+test_square_matrix_x_square_matrix() with size of:  2048
+Time taken: 73565928 microseconds
+-----------------------------------------------------------------
